@@ -26,3 +26,53 @@
     width: 49%;
     display: inline-block;
 }
+
+.skin {
+    fill: #9ECE9A;
+    stroke: #74A57F;
+}
+
+.point {
+    fill: #74A57F;
+}
+
+.Eye {
+    fill: #074F57;
+}
+
+.Tounge {
+    fill: #077187;
+}
+
+.pants {
+    fill: #E4C5AF;
+}
+
+.flower {
+    fill: #077187;
+}
+
+svg:hover .flower {
+    fill: #7352A3;
+}
+
+svg:hover .pants {
+    fill: #B2DB1F;
+}
+
+svg:hover .Tounge {
+    fill: #F88F96;
+}
+
+svg:hover .Eye {
+    fill: black;
+}
+
+svg:hover .skin {
+    fill: #FC886F;
+    stroke: #F13301;
+}
+
+svg:hover .point {
+    fill: #F13301;
+}
